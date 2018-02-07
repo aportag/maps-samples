@@ -1,2 +1,1 @@
-# maps-samples
-Leaflet maps
+# gis-master-m2.github.io

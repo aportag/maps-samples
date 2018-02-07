@@ -1,0 +1,12 @@
+mapbox leaflet url: 
+
+https://api.mapbox.com/styles/v1/aportag/cjd3b3wtm466m2smd62rjghr4/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYXBvcnRhZyIsImEiOiJjamNqZ2x6NXEyOWFvMzNyd3dxdnlyZmplIn0.BC8CrrQe827SqY_-9Lm7Aw
+
+mapbox gl: 
+
+mapbox://styles/aportag/cjd3b3wtm466m2smd62rjghr4
+
+pk.eyJ1IjoiYXBvcnRhZyIsImEiOiJjamNqZ2x6NXEyOWFvMzNyd3dxdnlyZmplIn0.BC8CrrQe827SqY_-9Lm7Aw
+
+map id:
+aportag.7sf1jo98
